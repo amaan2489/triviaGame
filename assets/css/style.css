@@ -1,0 +1,66 @@
+h1, .jumbotron {
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	color: #fff;
+}
+
+.jumbotron{
+
+  background-color: #B8A351; 
+  border-color: #FFFFFF; 
+
+
+}
+
+
+h2 {
+
+  color: red;
+  text-shadow:
+  0.05em 0 black,
+  0 0.05em black,
+  -0.05em 0 black,
+  0 -0.05em black,
+  -0.05em -0.05em black,
+  -0.05em 0.05em black,
+  0.05em -0.05em black,
+  0.05em 0.05em black;
+}
+
+
+body {
+  background-image: url("../images/city.jpg");
+  height: 100%; 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.jumbotron {
+	background-image: url("../images/header-img.jpg");
+}
+
+body {
+	font-family: font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+}
+
+img {
+	width: 400px;
+	height: 400px;
+}
+
+.btn { 
+  color: #ffffff; 
+  background-color: #B8A351; 
+  border-color: #FFFFFF; 
+} 
+ 
+
+
+ 
+.btn .badge { 
+  color: #B8A351; 
+  background-color: #ffffff; 
+}

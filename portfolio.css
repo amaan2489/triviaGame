@@ -1,0 +1,138 @@
+.head{
+    background-color:#ffffff;
+    border-color: #cccccc;
+    width: 100%;
+    text-align: left;
+    font-size: 2em;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0.5em;
+    
+        }
+
+
+        .grey{
+            color: #666666;
+        }
+        
+        #link{
+            color: blue;
+            text-underline-position: below;
+        }
+.neck{
+    background-color:#ffffff;
+    border-color: #cccccc;
+    padding: 1.5em;
+    margin-top: -0.5em;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 960px;
+    height: 400px;
+    text-align: center;
+    color: #4aaaa5;
+    text-align:left;
+    line-break: normal;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align:justify;
+    font-size: 1.3em;
+   
+   
+}
+
+hr { 
+display: block;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+margin-left: 0.5em;
+margin-right: 0.5em;
+border-style:solid;
+color: #cccccc;
+border-width: 1px;
+} 
+
+footer{
+    width: 100%;
+    padding: 30px;
+    clear: both;
+    background-color: #666666;
+    border-color: #cccccc;
+
+}
+
+.copy {
+    font-size: 0.9em;
+    color: darkgrey;
+    text-align: center;
+    position: relative;
+    top: 25px;
+}
+
+
+.border{
+
+    width: 100%;
+    padding: 4px;
+    clear: both;
+    background-color:#4aaaa5;
+    border-color: #cccccc;
+
+}
+
+p{
+    color: grey;
+    margin-left: 0px;
+    overflow:auto;
+    display:block;
+    
+
+}
+
+img {
+float: left;
+margin-right: 10px;
+clear:both;
+}
+
+.name{
+
+padding: 1.2em;
+background-color: #4aaaa5;
+align-content: stretch;
+width: 120px;
+height: 5px;
+color: white;
+position: relative;
+left: 233px;
+top:55px;
+
+
+
+
+}
+
+
+body {
+    background-color:#dddddd;
+    text-align: center;
+    width: 100%;
+    
+    
+}
+
+
+b { 
+    position: relative;
+    left: 70%;
+    font-size: 0.5em;
+    right: 10%;
+    color: #cccccc;
+
+    
+ }
+
+  a {
+color: #FFFFFF;
+text-decoration: none;
+}
